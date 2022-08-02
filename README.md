@@ -95,4 +95,4 @@ Jika ingin mengubah Default PIN dan Custom Email silahkan edit di file `data.txt
 
 
 ## ♥️ SUPPORT ME
-* [`QRIS`](https://bit.ly/qriswrgint)
+* [`QRIS`](https://bit.ly/qriswaroeng)
