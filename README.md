@@ -25,7 +25,9 @@ Script Bot Registrasi Gojek, Pasang PIN dan Cek Voucher menggunakan Python yang 
 
 Best Regards. Waroeng x Ary
 
-## Fitur Script
+<hr>
+
+## 🔥 Fitur Script
 - [x] Auto Set Nama dan Email
 - [x] Auto Set PIN
 - [x] Auto Get Token
@@ -34,11 +36,12 @@ Best Regards. Waroeng x Ary
 - [x] Checker Voucher (BETA)
 
 
-## 🛠️ Install Script Bot GoJek
+## ✨ Install Script Bot GoJek
 
 ### 🎲 Bahasa yang Dipakai
 <p>
     <a href="https://github.com/waroengin"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+
 
 ### ⚙️ Instalasi Termux - Android
 
@@ -71,26 +74,25 @@ python gojek.py
 ```
 
 
-### Instalasi Exe - Windows
+### 💻 Instalasi Exe - Windows
 * Download [`Gojek Regist & Checker`](https://github.com/aarzaary/aarzaary.github.io/raw/main/Gojek.zip)
 * Download [`Gojek Inject Auto Memu`](https://github.com/aarzaary/aarzaary.github.io/raw/main/Inject.zip)
 
-## WARNING
+## ⚠️ WARNING
 Check Voucher terkadang Error, atau terdeteksi 0 voucher 
-Jangan khawatir karena voucher sudah pasti muncul. (BETA, not working perfectly)
-Jika ingin mengubah Default PIN dan Custom Email silahkan edit di file [`data`]
+Jangan khawatir karena voucher sudah pasti muncul.
+Jika ingin mengubah Default PIN dan Custom Email silahkan edit di file `data.txt`
 
-## THANKS TO
+## 🌟 THANKS TO
 * [`Muh. RifQ`](https://https://t.me/itsrifq)
 * [`Ary`](https://https://github.com/aarzaary)
 
 
 
-## GROUP CHAT
+## ☁️ GROUP CHAT
 <P>
-<a href="https://github.com/waroengin"><img alt="Group CHat" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/waroengpromo"><img alt="Group CHat" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 
-## SUPPORT ME
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+## ♥️ SUPPORT ME
+* [`QRIS`](https://bit.ly/qriswrgint)
